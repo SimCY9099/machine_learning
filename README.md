@@ -7,7 +7,7 @@ In this project, our goal is to create a movie recommendation system based on th
 You can download the full data [here](https://grouplens.org/datasets/movielens/25m/)
 
 ### Data Description
-The file have included 2 files:
+We only use 2 datasets in this project: 
   - movies.csv: The movie names, each corresponding movie Id and the genre of the movie
   - ratings.csv: The average rating from each user for those movies based on the movie Id.
 
